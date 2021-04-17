@@ -1,4 +1,4 @@
-# Hi, I'm Animalek Mekuriya 👋
+# Hi, I'm Abimalek Mekuriya 👋
 
 ## About Me
  - I'm a freshman at [Academies Of Loudoun](https://www.lcps.org/acl) 
