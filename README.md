@@ -1,7 +1,7 @@
-# Hi, I'm Abimalek Mekuriya 👋
+# Hi, I'm Abi👋
 
 ## About Me
- - I'm a freshman at [Academies Of Loudoun](https://www.lcps.org/acl) 
+ - I'm a sophmore 
  - I love Computer Science!
  - I enjoy minecraft based projects, especially the minecraft protocol itself!
  - I'm currnecy learning python and Java.
