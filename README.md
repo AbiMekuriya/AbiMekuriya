@@ -4,11 +4,15 @@
  - I'm a sophmore 
  - I love Computer Science!
  - I enjoy minecraft based projects, especially the minecraft protocol itself!
- - I'm currnecy learning python and Java.
+ - I'm currnecy learning Rust and Java.
 
 ## Technolgies I've Learnt 🛠️
- - PhP!
+ - PhP (dont laugh)
  - GoLang
+
+## Technolgies im Learning
+ - Rust
+ - Python
 
 ## How to contact me
  Email me at: abi.iy2005@gmail.com
