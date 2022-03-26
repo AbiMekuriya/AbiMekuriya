@@ -7,7 +7,7 @@
  - I'm currnecy learning Rust and Java.
 
 ## Technolgies I've Learnt 🛠️
- - PhP (dont laugh)
+ - PhP (First Language)
  - GoLang
 
 ## Technolgies im Learning
