@@ -3,7 +3,7 @@
 ScarceityPvP is my alternative github account
 
 ## About Me
- - I'm a sophmore 
+ - I'm a Rising Junior
  - I love Computer Science!
  - I enjoy minecraft based projects, especially the minecraft protocol itself!
  - I'm currnecy learning Rust and Java.
