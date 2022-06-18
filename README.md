@@ -1,5 +1,7 @@
 # Hi, I'm Abi👋
 
+ScarceityPvP is my alternative github account
+
 ## About Me
  - I'm a sophmore 
  - I love Computer Science!
