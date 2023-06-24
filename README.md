@@ -3,7 +3,7 @@
 ScarceityPvP is my alternative github account
 
 ## About Me
- - I'm a Rising Junior
+ - I'm a Rising Senior
  - I love Computer Science!
  - I enjoy minecraft based projects, especially the minecraft protocol itself!
  - I'm currnecy learning Rust and Java.
@@ -17,7 +17,7 @@ ScarceityPvP is my alternative github account
  - Python
 
 ## How to contact me
- Email me at: abi.iy2005@gmail.com
+ Email me at: abi.mek2005@gmail.com
 <!---
 AbiMekuriya/AbiMekuriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
