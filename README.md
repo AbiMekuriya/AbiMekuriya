@@ -14,7 +14,6 @@ ScarceityPvP is my alternative github account
 
 ## Technolgies im Learning
  - Rust
- - Python
 
 ## How to contact me
  Email me at: abi.mek2005@gmail.com
