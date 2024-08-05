@@ -4,15 +4,7 @@ ScarceityPvP is my alternative github account
 
 ## About Me
  - I love Computer Science!
- - I enjoy minecraft based projects, especially the minecraft protocol itself!
- - I'm currnecy learning Rust and Java.
-
-## Technolgies I've Learnt 🛠️
- - PhP (First Language)
- - GoLang
-
-## Technolgies im Learning
- - Rust
+ - I'm currnecy learning Rust.
 
 ## How to contact me
  Email me at: abi.mek2005@gmail.com
