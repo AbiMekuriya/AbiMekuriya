@@ -4,7 +4,7 @@ ScarceityPvP is my alternative github account
 
 ## About Me
  - I love Computer Science!
- - I'm currnecy learning Rust.
+ - I'm currently learning Rust.
 
 ## How to contact me
  Email me at: abi.mek2005@gmail.com
